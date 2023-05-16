@@ -4,11 +4,11 @@ Starting point for client-side React projects
 
 Features:
 
-Typescript
-React 18,
-Tailwind
-Vite
-Prettier
+- Typescript
+- React 18
+- Tailwind
+- Vite
+- Prettier
 
 ## License
 
