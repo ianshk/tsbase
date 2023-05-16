@@ -1,4 +1,4 @@
-## Typescript, React 18, Tailwind, Prettier, Vite,
+## Typescript, React 18, Tailwind, Prettier, Vite
 
 Starting point for client-side React projects
 
