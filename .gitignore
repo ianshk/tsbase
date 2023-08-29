@@ -30,3 +30,6 @@ dist-ssr
 # misc
 .DS_Store
 *.pem
+
+yarn.lock
+pnpm-lock.yaml
